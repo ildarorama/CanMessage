@@ -1,0 +1,4 @@
+
+message Telemetry {
+    required int32 seq = 1;
+}
